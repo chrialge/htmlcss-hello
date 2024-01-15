@@ -1,7 +1,6 @@
 
 *{
     font-family: 'Open Sans', sans-serif;
-    margin: 0;
 }
 #site_header{
     text-align: center;
@@ -12,4 +11,10 @@
 #profile_image{
     width: 200px;
     border-radius: 90px;
+}
+h2{
+    color: orange;
+}
+h3{
+    font-style: italic;
 }
