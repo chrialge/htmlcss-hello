@@ -1,0 +1,33 @@
+/* #site_header{
+    property:value;
+} */
+
+
+/* to select ids use # */
+
+#site_header{
+    color: green;
+    background-color: blueviolet;
+}
+
+
+#site_main{
+    background-color: red;
+}
+
+
+/* to select classes  we use a: .
+
+classes can be used multiple times
+
+*/
+
+
+.bot{
+    background-color: cadetblue;
+    font-size: 24px;
+}
+
+div{
+    color: red;
+}
