@@ -18,3 +18,10 @@ h2{
 h3{
     font-style: italic;
 }
+#site_footer{
+    border-top: 2px solid orange;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
