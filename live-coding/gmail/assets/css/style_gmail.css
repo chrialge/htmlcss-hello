@@ -10,7 +10,7 @@ body{
     vertical-align: middle;
 }
 
-#logo-text{
+span {
     color: white;
     font-size: 1.5rem;
 }
