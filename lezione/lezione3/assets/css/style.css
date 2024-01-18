@@ -1,0 +1,16 @@
+.container-flex{
+    display: flex;
+}
+.item{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+.square{
+    margin: 5px;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
